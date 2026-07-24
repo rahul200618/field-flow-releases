@@ -6,7 +6,7 @@ This repository serves exclusively as the fast, public distribution channel for 
 
 ## 📥 Download the App
 You can always download the latest, most secure version of AgroERP directly from our official website:
-👉 **[erp.openalgon.com](https://agro.openalgon.com)**
+👉 **[agro.openalgon.com](https://agro.openalgon.com)**
 
 Alternatively, you can download the application directly from the [Releases Tab](../../releases/latest) in this repository:
 - **Windows Desktop:** `AGROERP_x64-setup.exe`
